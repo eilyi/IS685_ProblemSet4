@@ -15,7 +15,7 @@ with open("deniro.csv") as infile:
 	    for index, row in enumerate(reader):
 	         if (index != 0 and len(row) == 3):
 	         	deniro_dict[row[2]] = { "Score" : int(row[1]), "Year" : row[0]}
-
+#create the txt file & format 
 with open('deniro_json.txt', 'w') as outfile:
     json.dump(deniro_dict, outfile, indent=4)
 
