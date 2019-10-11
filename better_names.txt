@@ -1,0 +1,22 @@
+{
+    "top": {
+        "Riley": "33",
+        "Ariel": "30",
+        "Dylan": "28",
+        "Jordan": "27",
+        "Logan": "27",
+        "Caleb": "24",
+        "Aria": "24",
+        "Xavier": "24",
+        "Kevin": "24",
+        "Nathaniel": "24",
+        "Justin": "23",
+        "Christian": "23",
+        "Eli": "23",
+        "Ariana": "23",
+        "Anthony": "23",
+        "Gabriel": "23",
+        "Zachary": "23",
+        "Ron": "5"
+    }
+}

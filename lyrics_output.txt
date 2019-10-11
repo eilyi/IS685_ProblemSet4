@@ -1,0 +1,967 @@
+{
+ "play": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "house,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "put": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "my": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "favorite": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "record": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "on": {
+  "count": 9,
+  "songs": [
+   "American.txt",
+   "Russia.txt",
+   "Canada.txt"
+  ]
+ },
+ "get": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "down,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "your": {
+  "count": 8,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "crystal": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "method": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "you": {
+  "count": 20,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "were": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "like": {
+  "count": 42,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "dark": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "tan": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "driving": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "round": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "the": {
+  "count": 13,
+  "songs": [
+   "American.txt",
+   "Russia.txt",
+   "Canada.txt"
+  ]
+ },
+ "city": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "flirting": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "with": {
+  "count": 3,
+  "songs": [
+   "American.txt",
+   "Russia.txt",
+   "Canada.txt"
+  ]
+ },
+ "girls": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "you're": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "so": {
+  "count": 10,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "pretty": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "springsteen": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "is": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "king": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "don't": {
+  "count": 8,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "think": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "i": {
+  "count": 10,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "was": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "like,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "hell": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "yeah": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "that": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "guy": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "can": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "sing": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "ooh,": {
+  "count": 88,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "whoa": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "make": {
+  "count": 12,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "me": {
+  "count": 20,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "crazy,": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "wild": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "just": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "a": {
+  "count": 12,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "baby,": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "spin": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "'round": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "child": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "skin": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "golden": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "brown": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "be": {
+  "count": 18,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "young,": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "dope": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "proud": {
+  "count": 6,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "an": {
+  "count": 20,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "american": {
+  "count": 20,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "ooh": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "drive": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "fast,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "almost": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "taste": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "it": {
+  "count": 8,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "now": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "la,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "even": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "have": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "to": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "fake": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "sick,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "everybody": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "said": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "way": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "ahead": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "of": {
+  "count": 3,
+  "songs": [
+   "American.txt",
+   "Russia.txt",
+   "Canada.txt"
+  ]
+ },
+ "trend": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "ge-get": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "elvis": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "best,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "yes": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "honey": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "party": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "dress": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "wants": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "go": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "fast": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "but": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "they": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "can't": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "compare": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "really": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "want": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "rest,": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "only": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "take": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "there": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "eve": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "know": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "what": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "i'm": {
+  "count": 4,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "saying": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "praying": {
+  "count": 2,
+  "songs": [
+   "American.txt",
+   "Russia.txt"
+  ]
+ },
+ "for": {
+  "count": 5,
+  "songs": [
+   "American.txt",
+   "Russia.txt",
+   "Canada.txt"
+  ]
+ },
+ "o": {
+  "count": 4,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "canada!": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "our": {
+  "count": 2,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "home": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "and": {
+  "count": 4,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "native": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "land!": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "true": {
+  "count": 2,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "patriot": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "love": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "in": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "all": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "us": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "command.": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "glowing": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "hearts": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "we": {
+  "count": 4,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "see": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "thee": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "rise,": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "north": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "strong": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "free!": {
+  "count": 2,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "from": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "far": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "wide,": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "canada,": {
+  "count": 18,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "stand": {
+  "count": 3,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "guard": {
+  "count": 3,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "thee.": {
+  "count": 3,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "god": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "keep": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "land": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ },
+ "glorious": {
+  "count": 1,
+  "songs": [
+   "Canada.txt"
+  ]
+ }
+}
